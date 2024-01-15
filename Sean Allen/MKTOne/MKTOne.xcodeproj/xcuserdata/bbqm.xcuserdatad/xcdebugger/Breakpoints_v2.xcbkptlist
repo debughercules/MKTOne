@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "286179B5-418D-4F79-B3B9-A61E5832BFDC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F94589E-542D-46FA-84B0-727EEC52B747"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MKTOne/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "fetchData(for:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F94589E-542D-46FA-84B0-727EEC52B747 - 546751d0f2fef714"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MKTOne.ContentView.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(for: &#x3c4;_0_0.Type, from: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MKTOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbqm/Developer/Interview/Sean%20Allen/MKTOne/MKTOne/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "1F94589E-542D-46FA-84B0-727EEC52B747 - ff2b1019227fd535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for MKTOne.ContentView.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(for: &#x3c4;_0_0.Type, from: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MKTOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbqm/Developer/Interview/Sean%20Allen/MKTOne/MKTOne/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "1F94589E-542D-46FA-84B0-727EEC52B747 - 546751d0f2fef735"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MKTOne.ContentView.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(for: &#x3c4;_0_0.Type, from: Foundation.URL) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MKTOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbqm/Developer/Interview/Sean%20Allen/MKTOne/MKTOne/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C966A80-ADB4-4DB0-88FF-BA39A3C321FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MKTOne/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "fetchData(for:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
